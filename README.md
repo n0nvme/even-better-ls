@@ -2,6 +2,8 @@
 
 ![visual description of even-better-ls](http://imgur.com/H0sLGFX.png)
 
+The [original](https://github.com/mnurzia/even-better-ls) repo seems to be unmaintained so I forked one of pull requests and modified install script to work out of the box with [this](https://github.com/mnurzia/even-better-ls/pull/32) fix.
+
 ## Features
 
 - Almost full stock extension set
